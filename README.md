@@ -58,12 +58,5 @@ pip install -r requirements.txt
 - **Results Visualization:** Generated images are plotted at different stages of training to visually assess the improvement in quality. Training loss for both models is plotted to evaluate their learning curves.
 - **Post-Training Analysis:** Further analysis is conducted post-training to understand the models’ behavior and identify any areas of improvement for future experiments.
 
-## Contributing Guidelines
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
 ## License Information
 This project is licensed under the MIT License - see the LICENSE file for details.
